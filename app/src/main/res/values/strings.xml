@@ -1,3 +1,157 @@
 <resources>
     <string name="app_name">lab3</string>
+	<string name="app_title">Советы на каждый день</string>
+	<string name="tip_image_description">Изображение совета</string>
+	<string name="day_number">День %1$d</string>
+<!-- День 1 -->
+<string name="tip_01_title">Совет 1</string>
+<string name="tip_01_short">Краткое описание первого совета.</string>
+<string name="tip_01_full">Полное описание первого совета.</string>
+
+<!-- День 2 -->
+<string name="tip_02_title">Совет 2</string>
+<string name="tip_02_short">Краткое описание второго совета.</string>
+<string name="tip_02_full">Полное описание второго совета.</string>
+
+<!-- День 3 -->
+<string name="tip_03_title">Совет 3</string>
+<string name="tip_03_short">Краткое описание третьего совета.</string>
+<string name="tip_03_full">Полное описание третьего совета.</string>
+
+<!-- День 4 -->
+<string name="tip_04_title">Совет 4</string>
+<string name="tip_04_short">Краткое описание четвёртого совета.</string>
+<string name="tip_04_full">Полное описание четвёртого совета.</string>
+
+<!-- День 5 -->
+<string name="tip_05_title">Совет 5</string>
+<string name="tip_05_short">Краткое описание пятого совета.</string>
+<string name="tip_05_full">Полное описание пятого совета.</string>
+
+<!-- День 6 -->
+<string name="tip_06_title">Совет 6</string>
+<string name="tip_06_short">Краткое описание шестого совета.</string>
+<string name="tip_06_full">Полное описание шестого совета.</string>
+
+<!-- День 7 -->
+<string name="tip_07_title">Совет 7</string>
+<string name="tip_07_short">Краткое описание седьмого совета.</string>
+<string name="tip_07_full">Полное описание седьмого совета.</string>
+
+<!-- День 8 -->
+<string name="tip_08_title">Совет 8</string>
+<string name="tip_08_short">Краткое описание восьмого совета.</string>
+<string name="tip_08_full">Полное описание восьмого совета.</string>
+
+<!-- День 9 -->
+<string name="tip_09_title">Совет 9</string>
+<string name="tip_09_short">Краткое описание девятого совета.</string>
+<string name="tip_09_full">Полное описание девятого совета.</string>
+
+<!-- День 10 -->
+<string name="tip_10_title">Совет 10</string>
+<string name="tip_10_short">Краткое описание десятого совета.</string>
+<string name="tip_10_full">Полное описание десятого совета.</string>
+
+<!-- День 11 -->
+<string name="tip_11_title">Совет 11</string>
+<string name="tip_11_short">Краткое описание одиннадцатого совета.</string>
+<string name="tip_11_full">Полное описание одиннадцатого совета.</string>
+
+<!-- День 12 -->
+<string name="tip_12_title">Совет 12</string>
+<string name="tip_12_short">Краткое описание двенадцатого совета.</string>
+<string name="tip_12_full">Полное описание двенадцатого совета.</string>
+
+<!-- День 13 -->
+<string name="tip_13_title">Совет 13</string>
+<string name="tip_13_short">Краткое описание тринадцатого совета.</string>
+<string name="tip_13_full">Полное описание тринадцатого совета.</string>
+
+<!-- День 14 -->
+<string name="tip_14_title">Совет 14</string>
+<string name="tip_14_short">Краткое описание четырнадцатого совета.</string>
+<string name="tip_14_full">Полное описание четырнадцатого совета.</string>
+
+<!-- День 15 -->
+<string name="tip_15_title">Совет 15</string>
+<string name="tip_15_short">Краткое описание пятнадцатого совета.</string>
+<string name="tip_15_full">Полное описание пятнадцатого совета.</string>
+
+<!-- День 16 -->
+<string name="tip_16_title">Совет 16</string>
+<string name="tip_16_short">Краткое описание шестнадцатого совета.</string>
+<string name="tip_16_full">Полное описание шестнадцатого совета.</string>
+
+<!-- День 17 -->
+<string name="tip_17_title">Совет 17</string>
+<string name="tip_17_short">Краткое описание семнадцатого совета.</string>
+<string name="tip_17_full">Полное описание семнадцатого совета.</string>
+
+<!-- День 18 -->
+<string name="tip_18_title">Совет 18</string>
+<string name="tip_18_short">Краткое описание восемнадцатого совета.</string>
+<string name="tip_18_full">Полное описание восемнадцатого совета.</string>
+
+<!-- День 19 -->
+<string name="tip_19_title">Совет 19</string>
+<string name="tip_19_short">Краткое описание девятнадцатого совета.</string>
+<string name="tip_19_full">Полное описание девятнадцатого совета.</string>
+
+<!-- День 20 -->
+<string name="tip_20_title">Совет 20</string>
+<string name="tip_20_short">Краткое описание двадцатого совета.</string>
+<string name="tip_20_full">Полное описание двадцатого совета.</string>
+
+<!-- День 21 -->
+<string name="tip_21_title">Совет 21</string>
+<string name="tip_21_short">Краткое описание двадцать первого совета.</string>
+<string name="tip_21_full">Полное описание двадцать первого совета.</string>
+
+<!-- День 22 -->
+<string name="tip_22_title">Совет 22</string>
+<string name="tip_22_short">Краткое описание двадцать второго совета.</string>
+<string name="tip_22_full">Полное описание двадцать второго совета.</string>
+
+<!-- День 23 -->
+<string name="tip_23_title">Совет 23</string>
+<string name="tip_23_short">Краткое описание двадцать третьего совета.</string>
+<string name="tip_23_full">Полное описание двадцать третьего совета.</string>
+
+<!-- День 24 -->
+<string name="tip_24_title">Совет 24</string>
+<string name="tip_24_short">Краткое описание двадцать четвёртого совета.</string>
+<string name="tip_24_full">Полное описание двадцать четвёртого совета.</string>
+
+<!-- День 25 -->
+<string name="tip_25_title">Совет 25</string>
+<string name="tip_25_short">Краткое описание двадцать пятого совета.</string>
+<string name="tip_25_full">Полное описание двадцать пятого совета.</string>
+
+<!-- День 26 -->
+<string name="tip_26_title">Совет 26</string>
+<string name="tip_26_short">Краткое описание двадцать шестого совета.</string>
+<string name="tip_26_full">Полное описание двадцать шестого совета.</string>
+
+<!-- День 27 -->
+<string name="tip_27_title">Совет 27</string>
+<string name="tip_27_short">Краткое описание двадцать седьмого совета.</string>
+<string name="tip_27_full">Полное описание двадцать седьмого совета.</string>
+
+<!-- День 28 -->
+<string name="tip_28_title">Совет 28</string>
+<string name="tip_28_short">Краткое описание двадцать восьмого совета.</string>
+<string name="tip_28_full">Полное описание двадцать восьмого совета.</string>
+
+<!-- День 29 -->
+<string name="tip_29_title">Совет 29</string>
+<string name="tip_29_short">Краткое описание двадцать девятого совета.</string>
+<string name="tip_29_full">Полное описание двадцать девятого совета.</string>
+
+<!-- День 30 -->
+<string name="tip_30_title">Совет 30</string>
+<string name="tip_30_short">Краткое описание тридцатого совета.</string>
+<string name="tip_30_full">Полное описание тридцатого совета.</string>
+
+
 </resources>
