@@ -1,3 +1,157 @@
 <resources>
     <string name="app_name">lab3</string>
+	<string name="app_title">Программа тренировок</string>
+	<string name="tip_image_description">Изображение совета</string>
+	<string name="day_number">День %1$d</string>
+<!-- День 1 -->
+<string name="tip_01_title">Разминка</string>
+<string name="tip_01_short">лёгкая разминка перед тренировкой</string>
+<string name="tip_01_full">разогревает суставы и мышцы, готовит тело к нагрузке, снижает риск травм</string>
+
+<!-- День 2 -->
+<string name="tip_02_title">Пробежка</string>
+<string name="tip_02_short">бег в спокойном темпе</string>
+<string name="tip_02_full">тренирует сердце и ноги, укрепляет икры, квадрицепсы и ягодицы, повышает выносливость</string>
+
+<!-- День 3 -->
+<string name="tip_03_title">Пресс</string>
+<string name="tip_03_short">упражнения на мышцы живота</string>
+<string name="tip_03_full">прокачивает прямые и косые мышцы живота, укрепляет корпус и улучшает осанку</string>
+
+<!-- День 4 -->
+<string name="tip_04_title">Приседания</string>
+<string name="tip_04_short">базовое упражнение для ног</string>
+<string name="tip_04_full">прокачивает квадрицепсы, ягодицы и икры, укрепляет корпус и повышает силу ног</string>
+
+<!-- День 5 -->
+<string name="tip_05_title">Отжимания</string>
+<string name="tip_05_short">упражнение для верхней части тела</string>
+<string name="tip_05_full">прокачивает грудные мышцы, трицепсы и плечи, укрепляет корпус и руки</string>
+
+<!-- День 6 -->
+<string name="tip_06_title">Плаванье</string>
+<string name="tip_06_short">полезно для всего тела</string>
+<string name="tip_06_full">полезно для всего тела: тренирует спину, плечи, руки, ноги и корпус, щадит суставы</string>
+
+<!-- День 7 -->
+<string name="tip_07_title">Растяжка</string>
+<string name="tip_07_short">упражнения на гибкость</string>
+<string name="tip_07_full">растягивает мышцы ног, спины и плеч, улучшает гибкость и снимает напряжение</string>
+
+<!-- День 8 -->
+<string name="tip_08_title">Подтягивания</string>
+<string name="tip_08_short">упражнение на перекладине</string>
+<string name="tip_08_full">прокачивает широчайшие мышцы спины, бицепсы и предплечья, укрепляет хват</string>
+
+<!-- День 9 -->
+<string name="tip_09_title">Скакалка</string>
+<string name="tip_09_short">прыжки через скакалку</string>
+<string name="tip_09_full">тренирует икры, квадрицепсы и ягодицы, улучшает координацию и работу сердца</string>
+
+<!-- День 10 -->
+<string name="tip_10_title">Разминка</string>
+<string name="tip_10_short">лёгкая разминка перед тренировкой</string>
+<string name="tip_10_full">разогревает суставы и мышцы, готовит тело к нагрузке, снижает риск травм</string>
+
+<!-- День 11 -->
+<string name="tip_11_title">Пробежка</string>
+<string name="tip_11_short">бег в спокойном темпе</string>
+<string name="tip_11_full">тренирует сердце и ноги, укрепляет икры, квадрицепсы и ягодицы, повышает выносливость</string>
+
+<!-- День 12 -->
+<string name="tip_12_title">Пресс</string>
+<string name="tip_12_short">упражнения на мышцы живота</string>
+<string name="tip_12_full">прокачивает прямые и косые мышцы живота, укрепляет корпус и улучшает осанку</string>
+
+<!-- День 13 -->
+<string name="tip_13_title">Приседания</string>
+<string name="tip_13_short">базовое упражнение для ног</string>
+<string name="tip_13_full">прокачивает квадрицепсы, ягодицы и икры, укрепляет корпус и повышает силу ног</string>
+
+<!-- День 14 -->
+<string name="tip_14_title">Отжимания</string>
+<string name="tip_14_short">упражнение для верхней части тела</string>
+<string name="tip_14_full">прокачивает грудные мышцы, трицепсы и плечи, укрепляет корпус и руки</string>
+
+<!-- День 15 -->
+<string name="tip_15_title">Плаванье</string>
+<string name="tip_15_short">полезно для всего тела</string>
+<string name="tip_15_full">полезно для всего тела: тренирует спину, плечи, руки, ноги и корпус, щадит суставы</string>
+
+<!-- День 16 -->
+<string name="tip_16_title">Растяжка</string>
+<string name="tip_16_short">упражнения на гибкость</string>
+<string name="tip_16_full">растягивает мышцы ног, спины и плеч, улучшает гибкость и снимает напряжение</string>
+
+<!-- День 17 -->
+<string name="tip_17_title">Подтягивания</string>
+<string name="tip_17_short">упражнение на перекладине</string>
+<string name="tip_17_full">прокачивает широчайшие мышцы спины, бицепсы и предплечья, укрепляет хват</string>
+
+<!-- День 18 -->
+<string name="tip_18_title">Скакалка</string>
+<string name="tip_18_short">прыжки через скакалку</string>
+<string name="tip_18_full">тренирует икры, квадрицепсы и ягодицы, улучшает координацию и работу сердца</string>
+
+<!-- День 19 -->
+<string name="tip_19_title">Разминка</string>
+<string name="tip_19_short">лёгкая разминка перед тренировкой</string>
+<string name="tip_19_full">разогревает суставы и мышцы, готовит тело к нагрузке, снижает риск травм</string>
+
+<!-- День 20 -->
+<string name="tip_20_title">Пробежка</string>
+<string name="tip_20_short">бег в спокойном темпе</string>
+<string name="tip_20_full">тренирует сердце и ноги, укрепляет икры, квадрицепсы и ягодицы, повышает выносливость</string>
+
+<!-- День 21 -->
+<string name="tip_21_title">Пресс</string>
+<string name="tip_21_short">упражнения на мышцы живота</string>
+<string name="tip_21_full">прокачивает прямые и косые мышцы живота, укрепляет корпус и улучшает осанку</string>
+
+<!-- День 22 -->
+<string name="tip_22_title">Приседания</string>
+<string name="tip_22_short">базовое упражнение для ног</string>
+<string name="tip_22_full">прокачивает квадрицепсы, ягодицы и икры, укрепляет корпус и повышает силу ног</string>
+
+<!-- День 23 -->
+<string name="tip_23_title">Отжимания</string>
+<string name="tip_23_short">упражнение для верхней части тела</string>
+<string name="tip_23_full">прокачивает грудные мышцы, трицепсы и плечи, укрепляет корпус и руки</string>
+
+<!-- День 24 -->
+<string name="tip_24_title">Плаванье</string>
+<string name="tip_24_short">полезно для всего тела</string>
+<string name="tip_24_full">полезно для всего тела: тренирует спину, плечи, руки, ноги и корпус, щадит суставы</string>
+
+<!-- День 25 -->
+<string name="tip_25_title">Растяжка</string>
+<string name="tip_25_short">упражнения на гибкость</string>
+<string name="tip_25_full">растягивает мышцы ног, спины и плеч, улучшает гибкость и снимает напряжение</string>
+
+<!-- День 26 -->
+<string name="tip_26_title">Подтягивания</string>
+<string name="tip_26_short">упражнение на перекладине</string>
+<string name="tip_26_full">прокачивает широчайшие мышцы спины, бицепсы и предплечья, укрепляет хват</string>
+
+<!-- День 27 -->
+<string name="tip_27_title">Скакалка</string>
+<string name="tip_27_short">прыжки через скакалку</string>
+<string name="tip_27_full">тренирует икры, квадрицепсы и ягодицы, улучшает координацию и работу сердца</string>
+
+<!-- День 28 -->
+<string name="tip_28_title">Разминка</string>
+<string name="tip_28_short">лёгкая разминка перед тренировкой</string>
+<string name="tip_28_full">разогревает суставы и мышцы, готовит тело к нагрузке, снижает риск травм</string>
+
+<!-- День 29 -->
+<string name="tip_29_title">Пробежка</string>
+<string name="tip_29_short">бег в спокойном темпе</string>
+<string name="tip_29_full">тренирует сердце и ноги, укрепляет икры, квадрицепсы и ягодицы, повышает выносливость</string>
+
+<!-- День 30 -->
+<string name="tip_30_title">Пресс</string>
+<string name="tip_30_short">упражнения на мышцы живота</string>
+<string name="tip_30_full">прокачивает прямые и косые мышцы живота, укрепляет корпус и улучшает осанку</string>
+
+
 </resources>

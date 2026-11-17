@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">lab3</string>
+	<string name="app_title">Workout Program</string>
+	<string name="tip_image_description">Tip image</string>
+	<string name="day_number">Day %1$d</string>
+<!-- Day 1 -->
+<string name="tip_01_title">Warm-up</string>
+<string name="tip_01_short">light warm-up before training</string>
+<string name="tip_01_full">warms up joints and muscles, prepares the body for load, reduces the risk of injury</string>
+
+<!-- Day 2 -->
+<string name="tip_02_title">Jogging</string>
+<string name="tip_02_short">running at an easy pace</string>
+<string name="tip_02_full">trains the heart and legs, strengthens calves, quads and glutes, boosts endurance</string>
+
+<!-- Day 3 -->
+<string name="tip_03_title">Abs</string>
+<string name="tip_03_short">exercises for the abdominal muscles</string>
+<string name="tip_03_full">works the rectus and oblique abdominals, strengthens the core and improves posture</string>
+
+<!-- Day 4 -->
+<string name="tip_04_title">Squats</string>
+<string name="tip_04_short">a basic leg exercise</string>
+<string name="tip_04_full">works quads, glutes and calves, strengthens the core and builds leg strength</string>
+
+<!-- Day 5 -->
+<string name="tip_05_title">Push-ups</string>
+<string name="tip_05_short">an upper body exercise</string>
+<string name="tip_05_full">works the chest, triceps and shoulders, strengthens the core and arms</string>
+
+<!-- Day 6 -->
+<string name="tip_06_title">Swimming</string>
+<string name="tip_06_short">good for the whole body</string>
+<string name="tip_06_full">good for the whole body: trains back, shoulders, arms, legs and core, easy on joints</string>
+
+<!-- Day 7 -->
+<string name="tip_07_title">Stretching</string>
+<string name="tip_07_short">flexibility exercises</string>
+<string name="tip_07_full">stretches the muscles of the legs, back and shoulders, improves flexibility and relieves tension</string>
+
+<!-- Day 8 -->
+<string name="tip_08_title">Pull-ups</string>
+<string name="tip_08_short">an exercise on the bar</string>
+<string name="tip_08_full">works the lats, biceps and forearms, strengthens the grip</string>
+
+<!-- Day 9 -->
+<string name="tip_09_title">Jump Rope</string>
+<string name="tip_09_short">skipping with a rope</string>
+<string name="tip_09_full">trains calves, quads and glutes, improves coordination and heart function</string>
+
+<!-- Day 10 -->
+<string name="tip_10_title">Warm-up</string>
+<string name="tip_10_short">light warm-up before training</string>
+<string name="tip_10_full">warms up joints and muscles, prepares the body for load, reduces the risk of injury</string>
+
+<!-- Day 11 -->
+<string name="tip_11_title">Jogging</string>
+<string name="tip_11_short">running at an easy pace</string>
+<string name="tip_11_full">trains the heart and legs, strengthens calves, quads and glutes, boosts endurance</string>
+
+<!-- Day 12 -->
+<string name="tip_12_title">Abs</string>
+<string name="tip_12_short">exercises for the abdominal muscles</string>
+<string name="tip_12_full">works the rectus and oblique abdominals, strengthens the core and improves posture</string>
+
+<!-- Day 13 -->
+<string name="tip_13_title">Squats</string>
+<string name="tip_13_short">a basic leg exercise</string>
+<string name="tip_13_full">works quads, glutes and calves, strengthens the core and builds leg strength</string>
+
+<!-- Day 14 -->
+<string name="tip_14_title">Push-ups</string>
+<string name="tip_14_short">an upper body exercise</string>
+<string name="tip_14_full">works the chest, triceps and shoulders, strengthens the core and arms</string>
+
+<!-- Day 15 -->
+<string name="tip_15_title">Swimming</string>
+<string name="tip_15_short">good for the whole body</string>
+<string name="tip_15_full">good for the whole body: trains back, shoulders, arms, legs and core, easy on joints</string>
+
+<!-- Day 16 -->
+<string name="tip_16_title">Stretching</string>
+<string name="tip_16_short">flexibility exercises</string>
+<string name="tip_16_full">stretches the muscles of the legs, back and shoulders, improves flexibility and relieves tension</string>
+
+<!-- Day 17 -->
+<string name="tip_17_title">Pull-ups</string>
+<string name="tip_17_short">an exercise on the bar</string>
+<string name="tip_17_full">works the lats, biceps and forearms, strengthens the grip</string>
+
+<!-- Day 18 -->
+<string name="tip_18_title">Jump Rope</string>
+<string name="tip_18_short">skipping with a rope</string>
+<string name="tip_18_full">trains calves, quads and glutes, improves coordination and heart function</string>
+
+<!-- Day 19 -->
+<string name="tip_19_title">Warm-up</string>
+<string name="tip_19_short">light warm-up before training</string>
+<string name="tip_19_full">warms up joints and muscles, prepares the body for load, reduces the risk of injury</string>
+
+<!-- Day 20 -->
+<string name="tip_20_title">Jogging</string>
+<string name="tip_20_short">running at an easy pace</string>
+<string name="tip_20_full">trains the heart and legs, strengthens calves, quads and glutes, boosts endurance</string>
+
+<!-- Day 21 -->
+<string name="tip_21_title">Abs</string>
+<string name="tip_21_short">exercises for the abdominal muscles</string>
+<string name="tip_21_full">works the rectus and oblique abdominals, strengthens the core and improves posture</string>
+
+<!-- Day 22 -->
+<string name="tip_22_title">Squats</string>
+<string name="tip_22_short">a basic leg exercise</string>
+<string name="tip_22_full">works quads, glutes and calves, strengthens the core and builds leg strength</string>
+
+<!-- Day 23 -->
+<string name="tip_23_title">Push-ups</string>
+<string name="tip_23_short">an upper body exercise</string>
+<string name="tip_23_full">works the chest, triceps and shoulders, strengthens the core and arms</string>
+
+<!-- Day 24 -->
+<string name="tip_24_title">Swimming</string>
+<string name="tip_24_short">good for the whole body</string>
+<string name="tip_24_full">good for the whole body: trains back, shoulders, arms, legs and core, easy on joints</string>
+
+<!-- Day 25 -->
+<string name="tip_25_title">Stretching</string>
+<string name="tip_25_short">flexibility exercises</string>
+<string name="tip_25_full">stretches the muscles of the legs, back and shoulders, improves flexibility and relieves tension</string>
+
+<!-- Day 26 -->
+<string name="tip_26_title">Pull-ups</string>
+<string name="tip_26_short">an exercise on the bar</string>
+<string name="tip_26_full">works the lats, biceps and forearms, strengthens the grip</string>
+
+<!-- Day 27 -->
+<string name="tip_27_title">Jump Rope</string>
+<string name="tip_27_short">skipping with a rope</string>
+<string name="tip_27_full">trains calves, quads and glutes, improves coordination and heart function</string>
+
+<!-- Day 28 -->
+<string name="tip_28_title">Warm-up</string>
+<string name="tip_28_short">light warm-up before training</string>
+<string name="tip_28_full">warms up joints and muscles, prepares the body for load, reduces the risk of injury</string>
+
+<!-- Day 29 -->
+<string name="tip_29_title">Jogging</string>
+<string name="tip_29_short">running at an easy pace</string>
+<string name="tip_29_full">trains the heart and legs, strengthens calves, quads and glutes, boosts endurance</string>
+
+<!-- Day 30 -->
+<string name="tip_30_title">Abs</string>
+<string name="tip_30_short">exercises for the abdominal muscles</string>
+<string name="tip_30_full">works the rectus and oblique abdominals, strengthens the core and improves posture</string>
+
+
+</resources>
